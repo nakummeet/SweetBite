@@ -62,7 +62,8 @@ SweetBite/
 
 ## 📸 Screenshots
 
-*(Add screenshots here to showcase the app)*
+![WhatsApp Image 2025-02-02 at 22 18 32_3a289fc5](https://github.com/user-attachments/assets/d4688d10-bd49-4997-98a1-c85d1a712afa)
+
 
 ## 🤝 Contributing
 
