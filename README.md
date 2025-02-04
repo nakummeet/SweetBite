@@ -1,21 +1,78 @@
-<<<<<<< HEAD
-# untitled
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # SweetBite
-SweetBite is a delightful dessert-ordering app that lets users explore, customize, and order their favorite treats with ease. From ice creams to pastries, satisfy your cravings anytime! Users can also create and sell their own desserts, making it a sweet marketplace for all.🍨🍩
->>>>>>> 714e5d55d574100ad27b16d3ac2763cca8168488
+
+## 🍨 About SweetBite
+
+SweetBite is a delightful Flutter application that allows users to order their favorite desserts effortlessly. From ice creams to cakes, satisfy your sweet cravings with just a few taps. Users can also add their own dessert creations for sale and explore a variety of sweet treats available.
+
+## 📲 Features
+
+- Browse and order delicious desserts 🍩🍪
+- Add your own dessert creations for sale 🍦🎂
+- User-friendly navigation for a seamless experience 📱
+
+
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Flutter (Dart)
+- **Backend:** JavaScript (Handled by Backend Developer)
+- **Database:** MongoDB
+
+## 📥 Installation
+
+Follow these steps to run SweetBite on your local machine:
+
+```bash
+# Clone the repository
+git clone https://github.com/nakummeet/SweetBite.git
+
+# Navigate to the project directory
+cd SweetBite
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
+```
+
+## 🏗️ Project Structure
+
+```
+SweetBite/
+│-- lib/
+│   ├── screens/           # All screens of the app
+│   │   ├── AddDessert.dart
+│   │   ├── Category-Selection.dart
+│   │   ├── IceCreamDetailPage.dart
+│   │   ├── home_page.dart
+│   │   ├── ice_cream_list.dart
+│   │   ├── profile.dart
+│   │   ├── sign_in_page.dart
+│   │   ├── sign_up_page.dart
+│   │   ├── uplode_by_user.dart
+│   ├── services/          # Authentication and API services
+│   │   ├── auth_service.dart
+│   ├── main.dart          # Main entry point of the application
+│-- assets/                # Images and resources
+│-- pubspec.yaml           # Flutter dependencies
+│-- README.md              # Project documentation
+
+```
+
+## 📸 Screenshots
+
+*(Add screenshots here to showcase the app)*
+
+## 🤝 Contributing
+
+We welcome contributions! Feel free to submit a pull request or report an issue.
+
+## 📧 Contact
+
+For any queries or collaborations, contact [[nakummeet3570@gmail.com](mailto\:nakummeet3570@gmail.com)] or visit the [GitHub Repository](https://github.com/nakummeet/SweetBite).
+
+---
+
+Enjoy your sweets with **SweetBite**! 🍫🍰
+
