@@ -62,7 +62,12 @@ SweetBite/
 
 ## 📸 Screenshots
 
+![WhatsApp Image 2025-02-02 at 22 18 32_7944ebea](https://github.com/user-attachments/assets/294d917c-4a1f-4455-b34d-fb7018674be7)
+![WhatsApp Image 2025-02-02 at 22 18 32_7944ebea](https://github.com/user-attachments/assets/431553bd-a47e-4422-b0aa-cc2ed280b7e6)
 ![WhatsApp Image 2025-02-02 at 22 18 32_3a289fc5](https://github.com/user-attachments/assets/d4688d10-bd49-4997-98a1-c85d1a712afa)
+![WhatsApp Image 2025-02-04 at 18 16 25_724431f9](https://github.com/user-attachments/assets/89a60a4a-523d-4342-ab54-ae273dacceee)
+![WhatsApp Image 2025-02-02 at 22 18 32_7944ebea](https://github.com/user-attachments/assets/af4775a8-ac18-41a9-aac0-c134bfc9db83)
+
 
 
 ## 🤝 Contributing
